@@ -97,3 +97,10 @@ Jeder Kontakt erhält eine interne ID. Beim Import werden bestehende Kontakte an
 
 Dieses Projekt kann frei genutzt und erweitert werden.
 Für öffentliche Projekte wird die **MIT-Lizenz** empfohlen.
+
+---
+
+## 📄 Author
+
+Stephan Lauermann. AI assisted by ChatGPT
+
